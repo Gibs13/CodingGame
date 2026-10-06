@@ -1,0 +1,38 @@
+ # Executable archives and compiled output
+*.jar
+*.exe
+*.dll
+*.pdb
+*.obj
+*.o
+*.class
+*.cache
+
+# .NET / C# build artifacts
+*/bin/
+*/obj/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*/packages/
+
+# IDE and editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS and temporary files
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.tmp
+*.temp
+*.log
+logs/*
+
+# summer-referee ressources for local graphical interface
+src/*

@@ -1,0 +1,6 @@
+java -jar cg-brutaltester.jar -r "java -jar cg-referee-ghost-in-the-cell-0.0.1.jar" -o -p1 ".\ghost-cell-bot2\bin\Debug\net9.0\ghost-cell-bot2.exe" -p2 ".\ghost-cell-bot2\bin\Debug\net9.0\ghost-cell-bot2.exe" -n 1 -l ".\logs\"
+
+
+
+java -jar cg-brutaltester.jar -r "java -jar summer-referee.jar -league 3" -p1 ".\summer-bot\bin\Debug\net9.0\summer-bot.exe" -p2 ".\summer-bot\bin\Debug\net9.0\summer-bot.exe" -n 1 -l ".\logs\"
+
